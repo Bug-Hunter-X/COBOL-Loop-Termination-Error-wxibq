@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common coding error related to loop termination. The program intends to increment a counter 10 times, but due to an incorrect comparison operator in the loop's termination condition, it runs one iteration short. The solution demonstrates the corrected code.
